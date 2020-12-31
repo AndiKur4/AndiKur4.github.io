@@ -92,6 +92,14 @@
 					<li><a href="{{ site.url }}/painting/">Painting</a></li>
 				</ul>
 			</li>
+            <li>
+				<a href="#">Research</a>
+				<ul class="dl-submenu">
+					<li><a href="{{ site.url }}/research/">Research</a></li>
+					<li><a href="{{ site.url }}/communication/">Communication</a></li>
+                    <li><a href="{{ site.url }}/outreach/">Outreach</a></li>
+				</ul>
+			</li>
 			{% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
 		        {% assign domain = '' %}
