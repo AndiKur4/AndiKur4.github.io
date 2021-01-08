@@ -6,7 +6,9 @@ date:
 comments: false
 ---
     
-![headshot] (./headshot.png)
+<figure>
+    <a href="https://github.com/AndiKur4/AndiKur4.github.io/blob/master/assets/img/headshot.png"></a>
+<figure>
 
 ## Features
 * Minimal, you can focus on your content
